@@ -1,0 +1,8 @@
+ergvein:mempool          8.0h issue:615; 2020-10-22; Reworking saving mempool https://github.com/hexresearch/ergvein/issues/615
+ergvein:mempool          8.0h issue:615; 2020-10-23; Problem with android request https://github.com/hexresearch/ergvein/issues/615
+ergvein:mempool          8.0h issue:617; 2020-10-24; Adding asking all nodes https://github.com/hexresearch/ergvein/issues/617
+ergvein:mempool          8.0h issue:617; 2020-10-25; Problem with inv answer from nodes https://github.com/hexresearch/ergvein/issues/617
+ergvein:mempool          8.0h issue:617; 2020-10-26; Added saving to cache https://github.com/hexresearch/ergvein/issues/617
+ergvein:mempool          8.0h issue:615; 2020-10-28; Fixing problems with different tx from different nodes https://github.com/hexresearch/ergvein/issues/615
+ergvein:mempool          8.0h issue:615; 2020-10-29; Trying to sync phone and desktop wallet with new trasaction https://github.com/hexresearch/ergvein/issues/615
+ergvein:mempool          8.0h issue:615; 2020-10-30; Adding worker for repeating tx if it was declined https://github.com/hexresearch/ergvein/issues/615
